@@ -244,6 +244,6 @@ For this section i recommand you to buy TryHackMe subscription. Because most use
 <br />
 <br />
 
-# Happy Hacking!!!
+# Happy Hacking!!
 
 ![hacker](https://raw.githubusercontent.com/SUNNYSAINI01001/TryHackMe_Zero_To_Hero_Path/main/hacker.gif)
